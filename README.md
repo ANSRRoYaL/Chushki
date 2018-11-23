@@ -3,3 +3,4 @@
 - Pesho
 - Micheto
 - Gichka
+- Gosho
